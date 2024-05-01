@@ -8,4 +8,4 @@ PHP project with an API from the Brazilian Central Bank that converts the value 
 ![Converter](https://i.imgur.com/ci43xJy.png)
 <p> Previously entered value in dollars <p>
 
-<p> This apliccation running in all the time that Brazilian Central Bank work (Monday at Friday) <p>
+<p> This application will running in all the time that Brazilian Central Bank work (Monday at Friday) <p>
