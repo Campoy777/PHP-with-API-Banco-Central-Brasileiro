@@ -6,6 +6,6 @@
 
 
 ![Converter](https://i.imgur.com/ci43xJy.png)
-<p> Previously entered value in dollars <p>
+<h3> <p> Previously entered value in dollars <p> </h3>
 
-<p> This application will running in all the time that Brazilian Central Bank work (Monday at Friday) <p>
+<h3> <p> This application will running in all the time that Brazilian Central Bank work (Monday at Friday) <p> </h3>
